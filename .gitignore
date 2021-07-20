@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# builds
+build/
+dist/
+.rpt2_cache
+release/
+tmp/
+
+
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#idea
+.idea/
+
+#vs
+.vs*/
+*.code-workspace*
