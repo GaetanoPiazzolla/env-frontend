@@ -1,4 +1,6 @@
 ## Related to medium article:
+[Update Angular/React environment dynamically reading variables from Kubernetes ConfigMaps](https://medium.com/codex/update-angular-react-environment-dynamically-reading-variables-from-kubernetes-configmaps-ae32b8d4021c
+)
 
 # Actualize Angular/React runtime environment reading variables from Kubernetes ConfigMaps
 
@@ -7,5 +9,4 @@ in as container environment values.
 
 Related to medium article:
 
-[Update Angular/React environment dynamically reading variables from Kubernetes ConfigMaps](https://medium.com/codex/update-angular-react-environment-dynamically-reading-variables-from-kubernetes-configmaps-ae32b8d4021c
-)
+
